@@ -1,2 +1,2 @@
-# desafios-plataforma-DIO
+# Desafios-Plataforma-DIO
 Repositório criado paras as atividades da plataforma DIO
